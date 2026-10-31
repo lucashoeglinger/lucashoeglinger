@@ -40,3 +40,6 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucashoeglinger&theme=tokyonight" alt="mystreak"/>
 </p>
+
+### Most used languages
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=lucashoeglinger&theme=tokyonight)   
